@@ -1,0 +1,50 @@
+header{
+   height: 100px;
+     
+}
+
+
+.container{
+   width: 940px;
+   margin: auto;
+   height: 100px;
+   border: solid;
+   border-color: blue ;
+}
+
+
+
+#logo{
+   margin-top: 19px;
+
+}
+
+#menu{
+   float:right;
+   margin-top: 25px;
+   
+   
+   
+}
+
+#menu a{
+   text-decoration: none;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bolder;
+   font-size: 30px;
+   margin-right: 60px;
+}
+
+#menu a:hover{
+   border-top: 5px solid;
+}
+
+#menu input{
+   padding-right: 330px;      
+}
+
+#menu select{
+   padding: 2px; 
+   padding-right: 120px;
+   
+}

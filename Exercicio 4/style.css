@@ -1,0 +1,28 @@
+.vertical-menu {
+      width: 200px;
+   border: solid;
+   border-color: grey; 
+   border-width: 1px;
+ }
+ 
+ .vertical-menu a {
+   background-color: #eee;
+   color: grey;
+   display: block;
+   padding: 12px;
+   font-family: Arial, Helvetica, sans-serif;
+   text-decoration: none;
+   border-bottom: solid;
+   border-width: 1px;
+
+ }
+ 
+ .vertical-menu a:hover {
+   background-color: white;
+   color: black;
+ }
+ 
+ .vertical-menu a.active {
+   background-color: grey;
+   color: white;
+ }

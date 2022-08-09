@@ -1,0 +1,124 @@
+header{
+    background: wheat;
+    width: 900px;
+    height: 100px;
+    margin: auto;
+    font-size: 40px;
+}
+
+#base {
+    background: wheat;
+    width: 900px;
+    height: 580px;
+    margin: auto;
+}
+
+
+#menu{
+    background: turquoise;
+    width: 20%;
+    height: 580px;
+    float: left;
+    text-align: center;
+}
+
+#navegacao{
+    padding-top: 20px;
+}
+
+#Link_Menu{
+    text-align: justify;
+}
+
+#a:link{
+    text-decoration: none;
+    color: black;
+}
+
+
+#caixa2{
+    float: right;
+    justify-content: center;
+    align-items: center;
+}
+
+#principal{
+    background: white;
+    height: 580px;
+    width: 58%;
+    float: left;
+    margin-left: 9px;
+    font-size: 20px;
+}
+
+#noticia{
+    padding: 20px;
+}
+
+#noticiap img{
+    max-width:300px;
+    max-height:200px;
+    width: auto;
+    height: auto;
+    float: left;
+}
+
+#noticiap{
+    float:right;
+    word-break: normal;
+    width: auto;
+    font-size: 17px;
+
+
+}
+
+#noticia label{
+    font-weight: bold;
+
+}
+
+#secundaria label{
+    font-weight: bold;
+
+}
+
+#sec1{
+    width: 45%;
+    float: left;
+}
+
+#sec2{
+    width: 45%;
+    float: right;
+}
+
+
+
+#anuncio {
+    background: rgb(180, 180, 184);    
+    height: 580px;
+    width: 20%;
+    float: right;
+    
+}
+
+#anuncio1{
+    margin-top: 20px;
+}
+
+#anuncio img{
+    max-width:200px;
+    max-height:310px;
+    width: auto;
+    height: auto;
+    padding-top: 20px;
+}
+
+footer{
+    background: rgb(245, 179, 204);
+    width: 900px;
+    height: 20px;
+    margin: auto;   
+    clear: both;
+    
+}

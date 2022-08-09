@@ -1,0 +1,297 @@
+/*TAMANHO DO FORMULARIO*/
+
+
+#formulario{  
+  background-color: #e0f5e8;
+  border: solid;
+  position: fixed;  
+  width: 800px;
+  height: 900px;
+  border-color: chartreuse;
+  
+ 
+  
+}
+
+/*IMAGEM CARTEIRO*/
+
+#chapeleiro{
+  padding-left: 5px;
+  padding-top: 5px;
+  float: left;
+  width: 13%;  
+
+}
+
+
+/*DIV CADASTRO GERAL*/
+
+#cadastro{  
+  border: solid;
+  width: 81%;
+  float: right;
+  height: 590px;
+  margin-top: 30px;
+  margin-bottom: 35px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-color: chartreuse;
+}
+
+#titulo{
+  
+  background-color: white;
+  border: solid;
+  position: fixed;
+  top: 30px;
+  left: 160px;
+  padding: 2px;
+  border-color: chartreuse;
+}
+
+
+
+/*DIV DADOS PESSOAIS E LOCALIZAÇÃO*/
+
+
+#dadosloc{
+  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  
+}
+
+
+/*DIV DADOS PESSOAIS*/
+
+
+#dados{
+  border: solid;
+  background-color: white;
+  height: 140px;
+  width: 40%;  
+  float: left;
+  border-color: chartreuse;
+}
+
+#dados p{  
+  background-color: white;
+  border: solid;
+  position: fixed;
+  top: 55px;
+  left: 200px;
+  border-color: chartreuse;
+  padding: 2px;
+}
+
+#nome{
+  position: fixed;
+  top: 120px;
+  left: 180px;
+}
+
+#barra_nome{
+  padding-right: 20px;
+  position: fixed;
+  top: 140px;
+  left: 180px; 
+}
+
+#prof{
+  position: fixed;
+  top: 160px;
+  left: 180px;
+}
+
+#selectprof{
+  position: fixed;
+  top: 180px;
+  left: 180px;
+  padding: 2px; 
+  padding-right: 81px;
+}
+
+#dados img{
+  float: right;
+}
+
+
+/*DIV LOCALIZAÇAO*/
+
+#localização{
+  border: solid;
+  background-color: white;
+  height: 140px;
+  width: 40%;  
+  float: right;  
+  border-color: chartreuse;
+}
+
+#localização p{ 
+  background-color: white;
+  border: solid;
+  position: fixed;
+  top: 55px;
+  left: 557px;
+  padding: 2px;
+  border-color: chartreuse;
+}
+
+#email{
+  position: fixed;
+  top: 120px;
+  left: 540px;
+}
+
+#barra_email{
+  position: fixed;
+  top: 140px;
+  left: 540px;
+  padding-right: 25px;
+}
+
+#rua{
+  position: fixed;
+  top: 160px;
+  left: 540px;
+}
+
+#barra_rua{
+  position: fixed;
+  top: 180px;
+  left: 540px;
+  padding-right: 25px;
+}
+
+#localização img{
+  float: right;
+}
+
+
+/*DIV FAIXA ETÁRA*/
+
+#faixa{
+  border: solid;
+  background-color: white;    
+  clear: both;
+  margin-top: 240px;
+  margin-left: 20px;
+  margin-right: 30px;
+  margin-bottom: 15px; 
+  height: 80px;
+  padding-top: 20px;
+  border-color: chartreuse;
+}
+
+#faixa img{
+  float: right;
+}
+
+#faixa p{
+  background-color: white;
+  border: solid;
+  position: fixed;
+  top: 255px;
+  left: 200px;
+  padding: 2px;
+  border-color: chartreuse;
+}
+
+#faixaesquerda{  
+  width: 40%;  
+  float: left;  
+
+}
+
+#faixadireita{  
+  width: 40%;  
+  float: right;
+
+}
+
+
+/*DIV ESPORTES */
+
+
+#esportes{
+  border: solid;
+  background: white;
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 30px;
+  border-color: chartreuse;  
+  clear: both;
+  
+}
+#esportes p{
+  background-color: white;
+  border: solid;
+  position: fixed;
+  top: 410px;
+  left: 200px;
+  padding: 2px;
+  border-color: chartreuse;}
+  
+
+
+#esporte_esquerda{
+  float: left;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 255px;
+}
+
+#esporte img{
+  float: right;
+}
+
+
+/*DIV COMENTARIO*/
+
+#comentarios{
+  background: white;
+  margin-left: 135px;
+  margin-right: 10px;
+  margin-bottom: 10px;  
+  border: solid;
+  clear: both;
+  height: 180px;
+  border-color: chartreuse;
+
+}
+
+#comentarios p{
+background-color: white;
+  border: solid;
+  position: fixed;
+  top: 640px;
+  border-color: chartreuse;
+  left: 160px;
+  padding: 2px;
+}
+
+#comentarios img{
+  float: right;
+}
+
+#comentarios input{
+  position: fixed;
+  top: 710px;
+  left: 160px;
+  padding-bottom: 110px;
+  padding-right: 200px;
+}
+
+#comentarios label{
+  position: fixed;
+  top: 690px;
+  left: 160px;
+}
+
+#botao1{
+  
+  margin-left: 135px;
+}
+
+
